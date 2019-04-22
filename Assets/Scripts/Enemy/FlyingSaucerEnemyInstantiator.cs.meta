@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a35563264adf23c44b4535493a330fb0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - flyingSaucerEnemy: {fileID: 1395177975446496, guid: 12a81477e0bd45245b259d9c027878f4,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
